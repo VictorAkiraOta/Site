@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: ../site/
+
+website:
+  site-url: "https://needier.com"
+  navbar:
+    title: false
+    logo: "IMGgeral/Logos/needier_ufrj.png"
+    left:
+      - href: index.qmd
+        text: Página Inicial
+      - href: NEEDIER_Noticias.qmd
+        text: Notícias
+      - href: NEEDIER_Relatorio.qmd
+        text: Relatório
+      - href: NEEDIER_Publi.qmd
+        text: Publicações
+      - href: NEEDIER_Quem_somos.qmd
+        text: Quem somos
+    page-footer:
+    background: light
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/needier.ufrj/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

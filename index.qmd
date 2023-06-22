@@ -1,0 +1,51 @@
+---
+lang: pt
+format:
+  html: 
+    theme: cosmo
+    css: css/home.css
+---
+
+```{r, label="pack", warning=FALSE, echo=FALSE, include=FALSE}
+
+# Rum this code in the Terminal (Code -> Terminal) only once
+# quarto install extension quarto-ext/fontawesome
+# {{< fa brands twitter size=1.4xl >}} needier.ufrj | {{< fa brands linkedin size=1.4xl >}} needier.ufrj | {{< fa brands github size=1.4xl >}} needier.ufrj | {{< fa brands instagram size=1.4xl >}} needier.ufrj
+
+```
+
+```{r}
+#| echo: FALSE
+#| out.width: 100%
+knitr::include_graphics('IMGgeral/Prédios/NEEDIER3.jpg')
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=FALSE)
+```
+
+## NEEDIER: Núcleo de Enfrentamento e Estudo de Doenças Infecciosas Emergentes e Reemergentes - Carlos Chagas
+
+Em 16 de março de 2020 através de uma parceria entre o Departamento de Doenças Infecciosas e Parasitárias (DDIP) da Faculdade de Medicina (FM) e o Laboratório de Virologia Molecular (LVM) do Instituto de Biologia (IB) foi criado o Centro de Triagem Diagnóstica para COVID-19 da UFRJ (CTD). O êxito das atividades desenvolvidas pelo CTD conduziram a criação do NEEDIER. O Núcleo, que em seus ideais remonta o antigo Pavilhão Carlos Chagas, concretizará o esforço acadêmico de atuação multidisciplinar e baseada em evidências científicas, utilizando como lastro os três pilares da universidade pública:: ensino, pesquisa e extensão.
+
+## FAPERJ entrevista a coordenação do NEEDIER:
+
+Veja na integra o vídeo produzido pela FAPERJ após a inauguração do NEEDIER
+
+{{< video https://www.youtube.com/embed/JAZSQHFsVbw >}}
+
+------------------------------------------------------------------------
+
+#### **Instituições parceiras e agências de fomento:**
+
+![](IMGgeral/Logos/MIX.png)
+
+------------------------------------------------------------------------
+
+#### **Contato:**
+
+e-mail: consulta\@needier.ufrj.br               Telefone: (21)96845-8188
+
+#### **Endereço:**
+
+Avenida Carlos Chagas Filho, 791, Quadra F, Polo de Biotecnologia, Ilha do Fundão<br> Rio de Janeiro/RJ - CEP 21941-599
