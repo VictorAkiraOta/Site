@@ -26,7 +26,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=FALSE)
 
 ## NEEDIER: Núcleo de Enfrentamento e Estudo de Doenças Infecciosas Emergentes e Reemergentes - Carlos Chagas
 
-Em 16 de março de 2020 através de uma parceria entre o Departamento de Doenças Infecciosas e Parasitárias (DDIP) da Faculdade de Medicina (FM) e o Laboratório de Virologia Molecular (LVM) do Instituto de Biologia (IB) foi criado o Centro de Triagem Diagnóstica para COVID-19 da UFRJ (CTD). O êxito das atividades desenvolvidas pelo CTD conduziram a criação do NEEDIER. O Núcleo, que em seus ideais remonta o antigo Pavilhão Carlos Chagas, concretizará o esforço acadêmico de atuação multidisciplinar e baseada em evidências científicas, utilizando como lastro os três pilares da universidade pública:: ensino, pesquisa e extensão.
+Em 16 de março de 2020 através de uma parceria entre o Departamento de Doenças Infecciosas e Parasitárias (DDIP) da Faculdade de Medicina (FM) e o Laboratório de Virologia Molecular (LVM) do Instituto de Biologia (IB) foi criado o Centro de Triagem Diagnóstica para COVID-19 da UFRJ (CTD). O êxito das atividades desenvolvidas pelo CTD conduziram a criação do NEEDIER. O Núcleo, que em seus ideais remonta o antigo Pavilhão Carlos Chagas, concretiza o esforço acadêmico de atuação multidisciplinar e baseada em evidências científicas, utilizando como lastro os três pilares da universidade pública: ensino, pesquisa e extensão.
 
 ## FAPERJ entrevista a coordenação do NEEDIER:
 
